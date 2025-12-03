@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "moviepilot.Application": {
+            "title": "moviepilot",
+            "icon": "images/icon_{0}.png",
+            "type": "url",
+            "protocol": "",
+            "port": "20669",
+            "url": "/",
+            "allUsers": false
+        }
+    }
+}
