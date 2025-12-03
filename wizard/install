@@ -34,5 +34,18 @@
                 ]
             }
         ]
+    },
+    {
+        "stepTitle": "应用端口",
+        "items": [
+            {
+                "type": "tips",
+                "helpText": "前端端口：20669"
+            },
+            {
+                "type": "tips",
+                "helpText": "后端端口：47901"
+            }
+        ]
     }
 ]
